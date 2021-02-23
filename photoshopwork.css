@@ -1,0 +1,88 @@
+html {
+    background-color: black;
+}
+
+
+
+
+
+h1 {
+    font-family:'Playfair Display', serif;
+}
+
+h1 {
+    color:mistyrose;
+    
+    
+    
+}
+
+h1 { text-align: center; }
+
+
+h1 {
+    font-size:60px;
+
+
+}
+
+
+
+h1 {
+    background-color: black;
+    background-size: 200px 200px;
+    
+    
+    
+}
+    
+
+
+
+
+h2 {
+     font-family:'Playfair Display', serif;
+}
+
+h2 {
+    
+color:mistyrose; 
+
+
+
+}
+
+
+
+h2{text-align: center;}
+
+
+
+
+h2{
+     font-size:47px;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    transform: rotate(360deg);
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
